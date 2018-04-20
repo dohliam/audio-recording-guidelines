@@ -63,6 +63,12 @@ If it is _not_ possible to avoid ambient noise in the location you are recording
 * Make sure you use a pop filter to avoid popping sounds during speech.
 * Ask the reader to make an effort to speak up.
 
+Soundproofing using available materials can sometimes reduce or eliminate environmental noise:
+
+* Thick clothing can be a reasonably effective soundproofing material:
+  * A closet or other location surrounded by layers of hanging clothing may be a decent workaround if a quiet locaton cannot be found.
+  * Hanging thick clothing between the recording equipment and the source of noise (fan, window, etc.) may help to reduce noise.
+
 ## Links
 
 * [Main project page](https://github.com/dohliam/audio-recording-guidelines)

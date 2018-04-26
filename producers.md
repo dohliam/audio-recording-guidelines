@@ -65,9 +65,10 @@ If it is _not_ possible to avoid ambient noise in the location you are recording
 
 Soundproofing using available materials can sometimes reduce or eliminate environmental noise:
 
-* Thick clothing can be a reasonably effective soundproofing material:
+* Thick clothing, pillows, cushions, or blankets can be a reasonably effective soundproofing material:
   * A closet or other location surrounded by layers of hanging clothing may be a decent workaround if a quiet locaton cannot be found.
   * Hanging thick clothing between the recording equipment and the source of noise (fan, window, etc.) may help to reduce noise.
+  * Likewise, enclosing a small area where the microphone is located (such as a desk) with cushions or other material may help to drown out external noise. ([Example](https://twitter.com/devuppodcast/status/959610188960591872))
 
 ## Links
 

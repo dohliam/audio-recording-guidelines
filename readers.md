@@ -57,7 +57,7 @@ Below are some suggestions for setting up the recording session:
   * **Don't** rush to repeat a mistake or stuttered word in order to "save time" as this can result in a sentence that is at a different speed than the rest of the recording, which may mean you will need to return to the studio at a later date to re-record the segment.
 * If you are reading from a paper script, try to avoid making any rustling or shuffling noises as you turn the pages.
   * Make sure that you don't continue to read aloud until the sound of the pages turning has ceased _completely_.
-* If you are reading from a screen, make sure to avoid mouse or keyboard clicking noises during recording/
+* If you are reading from a screen, make sure to avoid mouse or keyboard clicking noises during recording.
 
 ## Links
 

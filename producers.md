@@ -70,6 +70,21 @@ Soundproofing using available materials can sometimes reduce or eliminate enviro
   * Hanging thick clothing between the recording equipment and the source of noise (fan, window, etc.) may help to reduce noise.
   * Likewise, enclosing a small area where the microphone is located (such as a desk) with cushions or other material may help to drown out external noise. ([Example](https://twitter.com/devuppodcast/status/959610188960591872))
 
+## Using a DAW
+
+The following guidelines are for those who have access to a [Digital Audio Workstation](https://en.wikipedia.org/wiki/Digital_audio_workstation) (DAW).
+
+* Check session settings in your DAW:
+  * Make sure the _sample rate_ is at least 48 kHz and the _bit rate_ is at 24 and that you are recording in WAV format. Other options will be 44.1 kHz and 16 bit.
+  * For the purposes of getting the best possible recording, 48/24 is preferred and the industry standard for audio professionals. It is lossless, meaning it will not be compressed like an mp3 or other codec formats. Should you wish to convert the file to a smaller format later you can.
+
+* Before you begin recording, it is a good idea to test your levels:
+  * You will be able to see the .WAV file by doing a test recording and listening.
+  * Levels should be between -5 and -12 dB when recording, ensuring that it is loud enough that you are capturing a strong level on the voice without ever distorting.
+  * Most DAWs will have an indicator that goes from yellow to red. When the talent is speaking at their loudest the indicator should go into the yellow but never the red.
+  * Especially with digital, distortion or clipping is very difficult to fix. You may wish to request that the talent speak or perform their lines as loud as they think they will during recording so you can set your levels appropriately.
+  * If you do "clip" while recording it is important to adjust levels and do another take.
+
 ## Links
 
 * [Main project page](https://github.com/dohliam/audio-recording-guidelines)

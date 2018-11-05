@@ -21,8 +21,9 @@ Read the guidelines for readers [here](readers.md).
 * [Audio recording guidelines for readers](https://global-asp.github.io/guidelines/audio_readers) - Global ASP
 * [Audio recording guidelines for producers](https://global-asp.github.io/guidelines/audio_producers) - Global ASP
 
-* [gasp-audio](https://github.com/global-asp/gasp-audio) - Global African Storybook Project Audio
 * [asp-audio](https://github.com/global-asp/asp-audio) - African Storybook Project Audio
+* [gasp-audio](https://github.com/global-asp/gasp-audio) - Global African Storybook Project Audio
+* [gsn-audio](https://github.com/global-asp/gsn-audio) - GlobalStorybooks.net audio recordings
 
 ## License
 
